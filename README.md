@@ -1,0 +1,2 @@
+# akkaPocRead
+AkkaPoc Read Side
